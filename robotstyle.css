@@ -33,17 +33,44 @@
 }
 
 .r-arm {
-	width:50px;
+	width:70px;
 	height:250px;
 	background-color: red;
-	border-radius: 10%;
+	border-radius: 20%;
 	display: inline-block;
+	vertical-align: top;
 }
 
 .chest {
 	width: 300px;
 	height: 300px;
 	background-color: red;e;
-	border-radius: 10%;
+	display: inline-block;
+}
+
+.l-arm {
+	width:70px;
+	height:250px;
+	background-color: red;
+	border-radius: 20%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.legs {
+	text-align: center;
+}
+
+.r-leg {
+	width:148px;
+	height:70px;
+	background-color: red;
+	display: inline-block;
+}
+
+.l-leg {
+	width:148px;
+	height:70px;
+	background-color: red;
 	display: inline-block;
 }
