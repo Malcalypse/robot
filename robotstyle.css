@@ -6,3 +6,13 @@
 	text-align: center;
 	background-color: red;
 }
+
+.r-eye {
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	background-color: white;
+	border-radius: 100%;
+}
